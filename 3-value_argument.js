@@ -3,4 +3,5 @@ if (!args[0]) {
   console.log("No argument");
 }else if (!args[1]) {
   console.log(args[0]);
-}
+}else {
+  console.log("Arguments found")};
