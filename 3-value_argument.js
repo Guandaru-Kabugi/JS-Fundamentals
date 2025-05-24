@@ -4,4 +4,5 @@ if (!args[0]) {
 }else if (!args[1]) {
   console.log(args[0]);
 }else {
-  console.log("Arguments found")};
+  console.log("HBTN cool");
+}
